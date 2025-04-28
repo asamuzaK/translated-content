@@ -677,7 +677,7 @@
 /es/docs/HTML	/es/docs/Web/HTML
 /es/docs/HTML/Block-level_elements	/es/docs/Glossary/Block-level_content
 /es/docs/HTML/Canvas	/es/docs/Web/API/Canvas_API
-/es/docs/HTML/Consejos_para_la_creación_de_páginas_HTML_de_carga_rápida	/es/docs/Learn_web_development/Howto/Solve_HTML_problems/Author_fast-loading_HTML_pages
+/es/docs/HTML/Consejos_para_la_creación_de_páginas_HTML_de_carga_rápida	/es/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
 /es/docs/HTML/Element	/es/docs/Web/HTML/Reference/Elements
 /es/docs/HTML/Element/a	/es/docs/Web/HTML/Reference/Elements/a
 /es/docs/HTML/Element/form	/es/docs/Web/HTML/Reference/Elements/form
@@ -1255,8 +1255,8 @@
 /es/docs/Learn/HTML/Forms/Your_first_HTML_form	/es/docs/Learn_web_development/Extensions/Forms/Your_first_form
 /es/docs/Learn/HTML/Forms/como_crear_widgets_de_formularios_personalizados	/es/docs/Learn_web_development/Extensions/Forms/How_to_build_custom_form_controls
 /es/docs/Learn/HTML/Howto	/es/docs/Learn_web_development/Howto/Solve_HTML_problems
-/es/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages	/es/docs/Learn_web_development/Howto/Solve_HTML_problems/Author_fast-loading_HTML_pages
-/es/docs/Learn/HTML/Howto/Use_data_attributes	/es/docs/Learn_web_development/Howto/Solve_HTML_problems/Use_data_attributes
+/es/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages	/es/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
+/es/docs/Learn/HTML/Howto/Use_data_attributes	/es/docs/Web/HTML/How_to/Use_data_attributes
 /es/docs/Learn/HTML/Introduccion_a_HTML	/es/docs/conflicting/Learn_web_development/Core/Structuring_content
 /es/docs/Learn/HTML/Introduccion_a_HTML/Advanced_text_formatting	/es/docs/Learn_web_development/Core/Structuring_content/Advanced_text_features
 /es/docs/Learn/HTML/Introduccion_a_HTML/Creating_hyperlinks	/es/docs/Learn_web_development/Core/Structuring_content/Creating_links
@@ -1300,7 +1300,7 @@
 /es/docs/Learn/HTML/Tables/Basics	/es/docs/Learn_web_development/Core/Structuring_content/HTML_table_basics
 /es/docs/Learn/HTML/Tables/Structuring_planet_data	/es/docs/Learn_web_development/Core/Structuring_content/Planet_data_table
 /es/docs/Learn/HTML/como	/es/docs/Learn_web_development/Howto/Solve_HTML_problems
-/es/docs/Learn/HTML/como/Usando_atributos_de_datos	/es/docs/Learn_web_development/Howto/Solve_HTML_problems/Use_data_attributes
+/es/docs/Learn/HTML/como/Usando_atributos_de_datos	/es/docs/Web/HTML/How_to/Use_data_attributes
 /es/docs/Learn/Herramientas_y_pruebas	/es/docs/conflicting/Learn_web_development/Extensions/Testing
 /es/docs/Learn/Herramientas_y_pruebas/Cross_browser_testing	/es/docs/Learn_web_development/Extensions/Testing
 /es/docs/Learn/Herramientas_y_pruebas/GitHub	/es/docs/Learn_web_development/Core/Version_control
@@ -1403,6 +1403,8 @@
 /es/docs/Learn_web_development/Core/Structuring_content/Test_your_skills:_HTML_text_basics	/es/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/HTML_text_basics
 /es/docs/Learn_web_development/Core/Structuring_content/Test_your_skills:_Links	/es/docs/Learn_web_development/Core/Structuring_content/Test_your_skills/Links
 /es/docs/Learn_web_development/Getting_started/Soft_skills/Learning_and_getting_help	/es/docs/Learn_web_development/Getting_started/Soft_skills/Research_and_learning
+/es/docs/Learn_web_development/Howto/Solve_HTML_problems/Author_fast-loading_HTML_pages	/es/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
+/es/docs/Learn_web_development/Howto/Solve_HTML_problems/Use_data_attributes	/es/docs/Web/HTML/How_to/Use_data_attributes
 /es/docs/MDN/About	/es/docs/MDN/Writing_guidelines
 /es/docs/MDN/At_ten	/es/docs/orphaned/MDN/At_ten
 /es/docs/MDN/Comenzando	/es/docs/MDN/Community/Getting_started
@@ -1929,6 +1931,7 @@
 /es/docs/Web/API/Window/applicationCache	/es/docs/orphaned/Web/API/Window/applicationCache
 /es/docs/Web/API/Window/console	/es/docs/conflicting/Web/API/console
 /es/docs/Web/API/Window/dialogArguments	/es/docs/orphaned/Web/API/Window/dialogArguments
+/es/docs/Web/API/Window/showModalDialog	/es/docs/Web/API/HTMLDialogElement/showModal
 /es/docs/Web/API/WindowBase64.atob	/es/docs/Web/API/Window/atob
 /es/docs/Web/API/WindowBase64/Base64_codificando_y_decodificando	/es/docs/Glossary/Base64
 /es/docs/Web/API/WindowBase64/atob	/es/docs/Web/API/Window/atob
@@ -2320,7 +2323,7 @@
 /es/docs/Web/HTML/Block-level_elements	/es/docs/Glossary/Block-level_content
 /es/docs/Web/HTML/CORS_enabled_image	/es/docs/Web/HTML/How_to/CORS_enabled_image
 /es/docs/Web/HTML/Canvas	/es/docs/Web/API/Canvas_API
-/es/docs/Web/HTML/Consejos_para_la_creación_de_páginas_HTML_de_carga_rápida	/es/docs/Learn_web_development/Howto/Solve_HTML_problems/Author_fast-loading_HTML_pages
+/es/docs/Web/HTML/Consejos_para_la_creación_de_páginas_HTML_de_carga_rápida	/es/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
 /es/docs/Web/HTML/Content_categories	/es/docs/Web/HTML/Guides/Content_categories
 /es/docs/Web/HTML/Element	/es/docs/Web/HTML/Reference/Elements
 /es/docs/Web/HTML/Element/Heading_Elements	/es/docs/Web/HTML/Reference/Elements/Heading_Elements
@@ -3375,8 +3378,8 @@
 /es/docs/Web/SVG/Element/animate	/es/docs/Web/SVG/Reference/Element/animate
 /es/docs/Web/SVG/Element/circle	/es/docs/Web/SVG/Reference/Element/circle
 /es/docs/Web/SVG/Element/g	/es/docs/Web/SVG/Reference/Element/g
-/es/docs/Web/SVG/Element/glifo	/es/docs/Web/SVG/Reference/Element/glyph
-/es/docs/Web/SVG/Element/glyph	/es/docs/Web/SVG/Reference/Element/glyph
+/es/docs/Web/SVG/Element/glifo	/es/docs/conflicting/Web/CSS/@font-face
+/es/docs/Web/SVG/Element/glyph	/es/docs/conflicting/Web/CSS/@font-face
 /es/docs/Web/SVG/Element/rect	/es/docs/Web/SVG/Reference/Element/rect
 /es/docs/Web/SVG/Element/script	/es/docs/Web/SVG/Reference/Element/script
 /es/docs/Web/SVG/Element/style	/es/docs/Web/SVG/Reference/Element/style
@@ -3385,6 +3388,7 @@
 /es/docs/Web/SVG/Element/use	/es/docs/Web/SVG/Reference/Element/use
 /es/docs/Web/SVG/Element/view	/es/docs/Web/SVG/Reference/Element/view
 /es/docs/Web/SVG/Index	/es/docs/Web/SVG
+/es/docs/Web/SVG/Reference/Element/glyph	/es/docs/conflicting/Web/CSS/@font-face
 /es/docs/Web/SVG/Tutorial	/es/docs/Web/SVG/Tutorials/SVG_from_scratch
 /es/docs/Web/SVG/Tutorial/Getting_Started	/es/docs/Web/SVG/Tutorials/SVG_from_scratch/Getting_started
 /es/docs/Web/SVG/Tutorial/Introducción	/es/docs/Web/SVG/Tutorials/SVG_from_scratch/Introduction
