@@ -314,8 +314,8 @@
 /ru/docs/Learn/HTML/Forms/Валидация_формы	/ru/docs/Learn_web_development/Extensions/Forms/Form_validation
 /ru/docs/Learn/HTML/Forms/Отправка_и_Получение_данных_формы	/ru/docs/Learn_web_development/Extensions/Forms/Sending_and_retrieving_form_data
 /ru/docs/Learn/HTML/Howto	/ru/docs/Learn_web_development/Howto/Solve_HTML_problems
-/ru/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages	/ru/docs/Learn_web_development/Howto/Solve_HTML_problems/Author_fast-loading_HTML_pages
-/ru/docs/Learn/HTML/Howto/Use_data_attributes	/ru/docs/Learn_web_development/Howto/Solve_HTML_problems/Use_data_attributes
+/ru/docs/Learn/HTML/Howto/Author_fast-loading_HTML_pages	/ru/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
+/ru/docs/Learn/HTML/Howto/Use_data_attributes	/ru/docs/Web/HTML/How_to/Use_data_attributes
 /ru/docs/Learn/HTML/Introduction_to_HTML	/ru/docs/conflicting/Learn_web_development/Core/Structuring_content
 /ru/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting	/ru/docs/Learn_web_development/Core/Structuring_content/Advanced_text_features
 /ru/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks	/ru/docs/Learn_web_development/Core/Structuring_content/Creating_links
@@ -494,6 +494,8 @@
 /ru/docs/Learn_web_development/Core/Scripting/Test_your_skills:_Functions	/ru/docs/Learn_web_development/Core/Scripting/Test_your_skills/Functions
 /ru/docs/Learn_web_development/Core/Styling_basics/Basic_selectors/Selectors_Tasks	/ru/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Selectors
 /ru/docs/Learn_web_development/Core/Styling_basics/Cascade_tasks	/ru/docs/Learn_web_development/Core/Styling_basics/Test_your_skills/Cascade
+/ru/docs/Learn_web_development/Howto/Solve_HTML_problems/Author_fast-loading_HTML_pages	/ru/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
+/ru/docs/Learn_web_development/Howto/Solve_HTML_problems/Use_data_attributes	/ru/docs/Web/HTML/How_to/Use_data_attributes
 /ru/docs/MDN/About	/ru/docs/MDN/Writing_guidelines
 /ru/docs/MDN/At_ten	https://developer.mozilla.org/ru/about#our_journey
 /ru/docs/MDN/Community/Contributing/Getting_started	/ru/docs/MDN/Community/Getting_started
@@ -910,8 +912,8 @@
 /ru/docs/Web/Guide/HTML/Drag_and_drop/Drag_operations	/ru/docs/Web/API/HTML_Drag_and_Drop_API/Drag_operations
 /ru/docs/Web/Guide/HTML/Forms	/ru/docs/Learn_web_development/Extensions/Forms
 /ru/docs/Web/Guide/HTML/Introduction	/ru/docs/conflicting/Learn_web_development/Core/Structuring_content
-/ru/docs/Web/Guide/HTML/Tips_for_authoring_fast-loading_HTML_pages	/ru/docs/Learn_web_development/Howto/Solve_HTML_problems/Author_fast-loading_HTML_pages
-/ru/docs/Web/Guide/HTML/Using_data_attributes	/ru/docs/Learn_web_development/Howto/Solve_HTML_problems/Use_data_attributes
+/ru/docs/Web/Guide/HTML/Tips_for_authoring_fast-loading_HTML_pages	/ru/docs/Web/HTML/How_to/Author_fast-loading_HTML_pages
+/ru/docs/Web/Guide/HTML/Using_data_attributes	/ru/docs/Web/HTML/How_to/Use_data_attributes
 /ru/docs/Web/Guide/Parsing_and_serializing_XML	/ru/docs/Web/XML/Guides/Parsing_and_serializing_XML
 /ru/docs/Web/Guide/User_input_methods	/ru/docs/Learn_web_development/Extensions/Forms/User_input_methods
 /ru/docs/Web/Guide/WOFF	/ru/docs/Web/CSS/CSS_fonts/WOFF
